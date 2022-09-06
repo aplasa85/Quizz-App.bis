@@ -20,7 +20,7 @@ header {
     position: static;
     background-color: ;
     background: grey;
-    margin-bottom: 0;
+    min-height: 100 vh;
     height: 50px;
     justify-content: space-evenly;
     align-items: flex-end;
@@ -37,16 +37,18 @@ ul {
     }
 
 .card {
-    justify-content: center;    
-    padding: 20px;  
-    height: 50px;   
-    margin: auto;
+    justify-items;    
+    padding: 40px;  
+    height: 30px;   
+    margin: 40px;
     font-family: 'Courier New', Courier, monospace; 
-    width: 500px;
+    width: 450px;
+    min-height: 50vh;
+
 }
 
 footer {
     position: relative;
-    margin-bottom: o;
+    justify-content: flex-end;
 
 }
