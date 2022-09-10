@@ -20,7 +20,7 @@ ul {
     bottom: 0;
     justify-content:fullscreen;
     border-radius: 50px;
-    bookmark: black;
+    bookmark: black
 }
 
 .card {
@@ -50,4 +50,13 @@ ul {
         width: 100%;
         font-family: Arial, Helvetica, sans-serif;
     
+}
+
+.answer-button {
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+
+.tags {
+    bottom: 10px;
 }
